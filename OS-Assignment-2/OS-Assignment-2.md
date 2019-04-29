@@ -37,11 +37,11 @@ int main(void) {
 
 **Result 1:**
 
-![mage-20180419025929](P1-1.png)
+![](https://github.com/CyrusF/uestc-os-homework-18.04/blob/master/OS-Assignment-2/P1-1.png)
 
 **Result 2:**
 
-![mage-20180419030018](P1-2.png)
+![](https://github.com/CyrusF/uestc-os-homework-18.04/blob/master/OS-Assignment-2/P1-2.png)
 
 ## Problem 2
 
@@ -82,7 +82,7 @@ Linux 中也有一个单独的运行队列，只存放处于 TASK_RUNNING 状态
 
 ####状态之间如何转换？并画出状态转换图？
 
-![S-2-](/Users/cyrus/Desktop/OS-Assignment-2/OS-2-2.png)
+![](https://github.com/CyrusF/uestc-os-homework-18.04/blob/master/OS-Assignment-2/OS-2-2.png)
 
 ## Problem 3
 
@@ -115,7 +115,7 @@ int main(void) {
 
 **Result :**
 
-![mage-20180419025825](P3.png)
+![](https://github.com/CyrusF/uestc-os-homework-18.04/blob/master/OS-Assignment-2/P3.png)
 
 在以上代码中，可以将 Line 19 改为以下语句来使用 wait4 或 waitpid：
 
@@ -203,7 +203,7 @@ int main() {
 
 **Result :**
 
-![mage-20180419022226](P4.png)
+![](https://github.com/CyrusF/uestc-os-homework-18.04/blob/master/OS-Assignment-2/P4.png)
 
 `test.txt` 文件中的内容为：
 
@@ -263,7 +263,7 @@ clean:
 
 **Result :**
 
-![mage-20180419024925](P5.png)
+![](https://github.com/CyrusF/uestc-os-homework-18.04/blob/master/OS-Assignment-2/P5.png)
 
 
 
